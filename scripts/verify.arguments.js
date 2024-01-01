@@ -1,5 +1,5 @@
-﻿module.exports = [
+module.exports = [
     "My Token",
     "MT",
-    6  
+    6
 ];
